@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "smartBrainsSecret",
+  "database": "database"
+}
